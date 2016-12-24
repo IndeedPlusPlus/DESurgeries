@@ -11,13 +11,10 @@
   <HediffDef ParentName="ImplantHediffBase">
     <defName>AnestheticInjected</defName>
     <label>anesthetic</label>
+    <maxSeverity>1.0</maxSeverity>
     <comps>
-      <li>
-        <compClass>HediffComp_Disappears</compClass>
-        <disappearsAfterTicks>
-          <min>140000</min>
-          <max>140000</max>
-        </disappearsAfterTicks>
+	    <li Class="HediffCompProperties_SeverityPerDay">
+        <severityPerDay>-0.42857</severityPerDay><!-- matches original duration of 2.33 days -->
       </li>
     </comps>
     <stages>
