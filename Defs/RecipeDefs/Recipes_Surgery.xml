@@ -14,7 +14,7 @@
           <!-- Easy recipe the skill of the colonist and quality/cleanliness of the room should not matters that much -->
   <surgeonSurgerySuccessChanceExponent>0.5</surgeonSurgerySuccessChanceExponent>          
   <roomSurgerySuccessChanceFactorExponent>0.5</roomSurgerySuccessChanceFactorExponent>
-  <surgerySuccessChanceFactor>0.95</surgerySuccessChanceFactor>
+  <surgerySuccessChanceFactor>1.25</surgerySuccessChanceFactor>
   <deathOnFailedSurgeryChance>0.01</deathOnFailedSurgeryChance>
   <workAmount>2000</workAmount>
   <recipeUsers>
@@ -32,7 +32,7 @@
           <!-- The skill of the colonist and quality/cleanliness of the room should matters a bit -->
   <surgeonSurgerySuccessChanceExponent>1</surgeonSurgerySuccessChanceExponent>         
   <roomSurgerySuccessChanceFactorExponent>2</roomSurgerySuccessChanceFactorExponent>
-  <surgerySuccessChanceFactor>0.8</surgerySuccessChanceFactor>
+  <surgerySuccessChanceFactor>1.00</surgerySuccessChanceFactor>
   <deathOnFailedSurgeryChance>0.01</deathOnFailedSurgeryChance>
   <workAmount>3000</workAmount>
   <recipeUsers>
@@ -50,7 +50,7 @@
           <!-- The skill of the colonist and quality/cleanliness of the room should matters -->
   <surgeonSurgerySuccessChanceExponent>2</surgeonSurgerySuccessChanceExponent>
   <roomSurgerySuccessChanceFactorExponent>3</roomSurgerySuccessChanceFactorExponent>
-  <surgerySuccessChanceFactor>0.6</surgerySuccessChanceFactor>
+  <surgerySuccessChanceFactor>0.8</surgerySuccessChanceFactor>
   <deathOnFailedSurgeryChance>0.1</deathOnFailedSurgeryChance>
   <workAmount>4500</workAmount>
   <recipeUsers>
@@ -68,7 +68,7 @@
           <!-- The skill of the colonist and quality/cleanliness of the room should matters a lot -->
   <surgeonSurgerySuccessChanceExponent>3</surgeonSurgerySuccessChanceExponent>
   <roomSurgerySuccessChanceFactorExponent>4</roomSurgerySuccessChanceFactorExponent>
-  <surgerySuccessChanceFactor>0.5</surgerySuccessChanceFactor>
+  <surgerySuccessChanceFactor>0.70</surgerySuccessChanceFactor>
   <deathOnFailedSurgeryChance>0.25</deathOnFailedSurgeryChance>
   <workAmount>6000</workAmount>
   <recipeUsers>
